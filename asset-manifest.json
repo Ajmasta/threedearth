@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/threedearth/static/css/main.ade5c336.css",
+    "main.js": "/threedearth/static/js/main.7904634b.js",
+    "static/js/787.0e55d9e9.chunk.js": "/threedearth/static/js/787.0e55d9e9.chunk.js",
+    "static/media/8k_earth_clouds.jpg": "/threedearth/static/media/8k_earth_clouds.08fcd80007fae8fc7170.jpg",
+    "static/media/8k_earth_daymap.jpg": "/threedearth/static/media/8k_earth_daymap.54672c1f3ba121d80470.jpg",
+    "static/media/8k_earth_specular_map.jpg": "/threedearth/static/media/8k_earth_specular_map.7b4efa59933b470e3776.jpg",
+    "static/media/8k_earth_normal_map.jpg": "/threedearth/static/media/8k_earth_normal_map.930cf2e99bc548140c29.jpg",
+    "static/media/logo.svg": "/threedearth/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/threedearth/index.html",
+    "main.ade5c336.css.map": "/threedearth/static/css/main.ade5c336.css.map",
+    "main.7904634b.js.map": "/threedearth/static/js/main.7904634b.js.map",
+    "787.0e55d9e9.chunk.js.map": "/threedearth/static/js/787.0e55d9e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ade5c336.css",
+    "static/js/main.7904634b.js"
+  ]
+}
